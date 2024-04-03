@@ -1,5 +1,8 @@
 # Hackintosh Dell Latitude E6520  
-![Dell-Latitude-E6520](https://github.com/firedevel/Hackintosh-Dell-Latitude-E6520-Catalina/blob/main/e6520.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/firedevel/Hackintosh-Dell-Latitude-E6520-Catalina/blob/main/e6520.png">
+</p>
 
 ## macOS Catalina -  
 I've no idea how to make HD3000 work in BigSur +, It only supports Catalina -
@@ -18,9 +21,9 @@ Ethernet          | Intel 82579LM
 Audio       | IDT IDT92HD90BXX
 
 
-![Hardware-1](https://github.com/firedevel/Hackintosh-Dell-Latitude-E6520-Catalina/blob/main/config-1.png?raw=true)
+![Hardware-1](https://github.com/firedevel/Hackintosh-Dell-Latitude-E6520-Catalina/blob/main/config-1.png)
 
-![Hardware-2](https://github.com/firedevel/Hackintosh-Dell-Latitude-E6520-Catalina/blob/main/config-2.png?raw=true)
+![Hardware-2](https://github.com/firedevel/Hackintosh-Dell-Latitude-E6520-Catalina/blob/main/config-2.png)
 
 ## What's not working 
 Type | Problem | Status
